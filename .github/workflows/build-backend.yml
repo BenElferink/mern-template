@@ -28,6 +28,5 @@ jobs:
           cache: 'npm'
           cache-dependency-path: './server/package-lock.json'
       - run: |
-          cd ./server
           npm ci
           npm run build
