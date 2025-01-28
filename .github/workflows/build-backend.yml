@@ -19,6 +19,7 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-      - run: cd ./server
-      - run: npm ci
-      - run: npm run build
+      - run: |
+          cd ./server
+          npm ci
+          npm run build
