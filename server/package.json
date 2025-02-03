@@ -23,7 +23,7 @@
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
     "@types/jsonwebtoken": "^9.0.8",
-    "@types/node": "^22.10.10",
+    "@types/node": "^22.13.0",
     "typescript": "^5.7.3"
   }
 }
