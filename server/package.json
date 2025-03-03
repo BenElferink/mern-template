@@ -24,6 +24,6 @@
     "@types/express": "^5.0.0",
     "@types/jsonwebtoken": "^9.0.8",
     "@types/node": "^22.13.5",
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.2"
   }
 }
